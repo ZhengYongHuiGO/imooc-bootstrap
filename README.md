@@ -1,2 +1,2 @@
 # imooc-bootstrap
-bootstarp practise
+bootstarp practice
